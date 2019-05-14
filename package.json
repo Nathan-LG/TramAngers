@@ -1,0 +1,13 @@
+{
+    "name": "test-nlg-nodejs",
+    "version": "0.1.0",
+    "author": "Nathan LG <nathan@legranvallet.fr>",
+    "dependencies": {
+        "actions-on-google": "^2.6.0",
+        "body-parser": "^1.18.3",
+        "express": "^4.16.4",
+        "pretty-ms": "^4.0.0",
+        "request": "^2.88.0",
+        "request-promise": "^4.2.4"
+    }
+}
